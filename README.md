@@ -1,2 +1,5 @@
 # HPEmotionKeyboard
-A keyboard for input expression
+####A keyboard for input expression
+
+
+![Aaron Swartz](https://github.com/AHappyFish/imageCache/raw/master/HPEmotionKeyboard.gif)
